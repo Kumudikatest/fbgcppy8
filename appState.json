@@ -1,0 +1,93 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "b351af9d-b113-4e08-834c-e5538a4f2806": {
+        "id": "b351af9d-b113-4e08-834c-e5538a4f2806",
+        "parent": null,
+        "name": "fbgcppy8.py",
+        "type": "PYTHON_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "fbgcppy8.py",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "python37",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "name": "fbgcppy8"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ],
+        "lastUpdated": 1602146601658
+      },
+      "15758125-eec5-4ac5-bdbe-9a1e1bf671b6": {
+        "id": "15758125-eec5-4ac5-bdbe-9a1e1bf671b6",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "e317ac40-ff82-4599-9bf3-ebdc5c6ae340": {
+        "id": "e317ac40-ff82-4599-9bf3-ebdc5c6ae340",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "b351af9d-b113-4e08-834c-e5538a4f2806"
+    ],
+    "currentFileId": "b351af9d-b113-4e08-834c-e5538a4f2806",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.3.1",
+    "projectName": "fbgcppy8",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "python",
+    "platformRegions": {},
+    "lastSave": 1602146643524
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "fbgcppy8",
+      "url": "https://github.com/Kumudikatest/fbgcppy8"
+    }
+  }
+}
